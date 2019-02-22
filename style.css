@@ -1,0 +1,50 @@
+#switchBoard {
+	height: 400px;
+	width: 400px;
+	background:red;
+	margin-left:340px;
+	margin-top: 100px;
+	float: left;
+}
+
+		
+#btn {
+	background: yellow;
+	margin: 170px;
+}
+		
+#rows {
+	float: left;	
+	margin-top: 100px;
+    margin-left: 50px;
+}
+#para1{
+	display: none;
+}
+
+		
+#odd,#even {
+	width: 200px;
+	height: 100px;
+}
+#odd1,#even1 {
+	width: 200px;
+	height: 100px;
+}
+
+#odd {
+	background-color:grey;
+}
+
+#even {
+	background-color: black;
+}
+#odd1 {
+	background-color:grey;
+}
+
+#even1 {
+	background-color: black;
+}
+
+	
